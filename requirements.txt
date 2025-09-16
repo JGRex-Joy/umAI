@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-faiss-cpu
-transformers
-huggingface-hub
-requests
-sentence-transformers
-numpy
