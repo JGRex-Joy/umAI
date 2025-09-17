@@ -6,3 +6,5 @@ huggingface-hub
 requests
 sentence-transformers
 numpy
+python-docx
+python-dotenv
