@@ -8,7 +8,7 @@ DOC_PATH = "works/manas.docx"
 
 FULL_TEXT, PARAGRAPHS = load_docx(DOC_PATH)
 
-CHUNKS = split_into_chunks(PARAGRAPHS)
+CHUNKS = split_into_chunks(PARAGRAPHS, book_name="manas")
 save_chunks(CHUNKS)
 
 texts = [c["text"] for c in CHUNKS]
