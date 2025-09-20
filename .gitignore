@@ -1,0 +1,46 @@
+# Скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Файлы окружения
+venv/
+ENV/
+env/
+.venv/
+*.env
+.env.*
+
+# Базы данных и кеш
+*.sqlite3
+*.db
+*.db-journal
+*.pickle
+*.h5
+
+# PyInstaller
+*.manifest
+*.spec
+
+# ----------------------------
+# IDE / редакторы
+# ----------------------------
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+*.iml
+
+# ----------------------------
+# Windows
+# ----------------------------
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+

@@ -1,0 +1,7 @@
+faiss-cpu
+sentence-transformers
+python-docx
+numpy
+google-generativeai
+fastapi
+uvicorn[standard]
