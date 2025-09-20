@@ -1,10 +1,7 @@
+faiss-cpu
+sentence-transformers
+python-docx
+numpy
+google-generativeai
 fastapi
 uvicorn[standard]
-faiss-cpu
-transformers
-huggingface-hub
-requests
-sentence-transformers
-numpy
-python-docx
-python-dotenv
